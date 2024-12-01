@@ -1,0 +1,15 @@
+advent-of-code-data
+# scikit-image
+click
+# black
+# click
+ipython
+# isort
+jupyter
+matplotlib
+numpy
+pandas
+pre-commit
+ruff
+# scipy
+tqdm
